@@ -16,12 +16,12 @@ Publications
 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
 
 - [IEMask R-CNN: Information-enhanced Mask R-CNN](https://ieeexplore.ieee.org/abstract/document/9811396)  <br>
-Xiuli Bi, **Jinwu Hu**, Bin Xiao, WeiSheng Li, Xinbo Gao <br>
+Xiuli Bi, **Jinwu Hu**, Bin Xiao*, WeiSheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
 
 - [PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/14/17/4219)  <br>
-Bo Liu, **Jinwu Hu**, Xiuli Bi, WeiSheng Li, Xinbo Gao <br>
+Bo Liu<sup>+</sup>, **Jinwu Hu<sup>+</sup>**, Xiuli Bi*, WeiSheng Li, Xinbo Gao <br>
      Remote Sensing, 2022.
 <a href="https://www.mdpi.com/2072-4292/14/17/4219">[paper]</a>  <a href="https://github.com/Fhujinwu/PGNet">[code]</a>
 
