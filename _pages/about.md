@@ -10,6 +10,15 @@ redirect_from:
 
 I am a Third-year master student at Chongqing University of Posts and Telecommunications (2020~), co-advised by Prof. [Bin Xiao](https://scholar.google.com/citations?user=e3Dw1bkAAAAJ&hl=en), Associate Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en) and Lecturer [Bo Liu](https://scholar.google.com/citations?user=fXlz210AAAAJ&hl=en). I am also working as an intern at South China University of Technology (from October 2022, ongoing), where I am supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). My research interests focus on, but not limited to computer vision, image processing and machine learning. Feel free to contact me if you are interested in my research.
 
+News
+------
+- 2022.10 I won a **national scholarship for postgraduate students** !
+- 2022.09 Invited to serve as a reviewer for NN !
+- 2022.08 One paper is accepted by **Remote Sensing 2022**!
+- 2022.08 Invited to serve as a reviewer for IEEE JBHI !
+- 2022.06 One paper is accepted by **IEEE Transaction on Big Data 2022** !
+
+
 Publications
 ------
 
