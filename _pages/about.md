@@ -14,7 +14,7 @@ News
 ------
 - 2022.10: Received **the National Scholarship for postgraduate students** !
 - 2022.09: Invited to serve as a reviewer for NN !
-- 2022.08: One paper is accepted by **Remote Sensing 2022**!
+- 2022.08: One paper is accepted by **Remote Sensing 2022** !
 - 2022.08: Invited to serve as a reviewer for IEEE JBHI !
 - 2022.06: One paper is accepted by **IEEE Transaction on Big Data 2022** !
 
