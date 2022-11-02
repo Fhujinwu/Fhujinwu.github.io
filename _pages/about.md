@@ -14,7 +14,8 @@ I am a Third-year master student at Chongqing University of Posts and Telecommun
 Research Interests
 ------
 - Transfer Learning and Deep Domain generalization.
-- Image segmentation and its applications.
+- Image segmentation and its applications (e.g. remote sensing, medicine).
+- Causal reasoning.
 - AI for Science.
 
 News
