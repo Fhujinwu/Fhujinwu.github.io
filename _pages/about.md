@@ -20,6 +20,7 @@ Research Interests
 
 News
 ------
+- 2022.11：A invention patent is granted by the **China National Intellectual Property Administration**.
 - 2022.10: Received **the National Scholarship for postgraduate students** !
 - 2022.09: Invited to serve as a reviewer for NN !
 - 2022.08: One paper is accepted by **Remote Sensing 2022** !
