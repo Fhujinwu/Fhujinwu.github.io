@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jinwu Hu's Homepage"
 title_separator          : "-"
-name                     : &name "Jinwu Hu"
+name                     : &name "Jinwu Hu (胡晋武)"
 description              : &description "Jinwu Hu's academic site"
 url                      : https://Fhujinwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
