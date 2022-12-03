@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jinwu Hu's Homepage"
 title_separator          : "-"
-name                     : &name "Jinwu Hu (胡晋武)"
+name                     : &name "Jinwu Hu"
 description              : &description "Jinwu Hu's academic site"
 url                      : https://Fhujinwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
