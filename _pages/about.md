@@ -20,6 +20,7 @@ Research Interests
 
 News
 ------
+- 2023.04：A invention patent is granted by the **China National Intellectual Property Administration**.
 - 2023.02: Accepted to pursue PhD at South China University of Technology!
 - 2022.11：A invention patent is granted by the **China National Intellectual Property Administration**.
 - 2022.10: Received **the National Scholarship for postgraduate students** !
