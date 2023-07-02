@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ------
-I am a Third-year master student at Chongqing University of Posts and Telecommunications (2020~), co-advised by Prof. [Bin Xiao](https://scholar.google.com/citations?user=e3Dw1bkAAAAJ&hl=en) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). I am also working as an intern at  SMIL Lab, South China University of Technology (from October 2022, ongoing), where I am supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). My research interests focus on, but not limited to computer vision, AI4Science and machine learning. Feel free to contact me if you are interested in my research or would like to work together on interdisciplinary research.
+I am a PhD student at South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests focus on, but not limited to computer vision, large language model and machine learning. Feel free to contact me if you are interested in my research or would like to work together on interdisciplinary research.
 
 Research Interests
 ------
