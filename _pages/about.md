@@ -13,9 +13,9 @@ I am a PhD student at South China University of Technology (2023~) supervised by
 
 Research Interests
 ------
-- Transfer Learning and Deep Domain generalization.
+- Reinforcement Learning
+- Large Language Model
 - Image segmentation and its applications (e.g. remote sensing, medicine).
-- Causal reasoning.
 - AI for Science.
 
 News
