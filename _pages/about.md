@@ -43,7 +43,7 @@ Bo Liu<sup>+</sup>, **Jinwu Hu<sup>+</sup>**, Xiuli Bi*, WeiSheng Li, Xinbo Gao 
      Remote Sensing, 2022.
 <a href="https://www.mdpi.com/2072-4292/14/17/4219">[paper]</a>  <a href="https://github.com/Fhujinwu/PGNet">[code]</a>
 
-Professonal Activities
+Professional Activities
 ------
 - Neural Networks (NN), Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
