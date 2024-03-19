@@ -33,6 +33,10 @@ Recent News
 Publications
 ------
 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
+- [CTNet: Contrastive Transformer Network for Polyp Segmentation](https://ieeexplore.ieee.org/document/10471227)  <br>
+ Bin Xiao, **Jinwu Hu**, WeiSheng Li, Chi-Man Pun, Xiuli Bi*<br>
+      IEEE Transactions on Cybernetics, 2024.
+<a href="https://ieeexplore.ieee.org/document/10471227">[paper]</a>  <a href="https://github.com/Fhujinwu/CTNet">[code]</a>
 - [IEMask R-CNN: Information-enhanced Mask R-CNN](https://ieeexplore.ieee.org/abstract/document/9811396)  <br>
 Xiuli Bi, **Jinwu Hu**, Bin Xiao*, WeiSheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
