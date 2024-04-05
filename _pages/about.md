@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 ------
-I am a PhD student at South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests focus on, but not limited to computer vision, large language model and machine learning. Feel free to contact me if you are interested in my research or would like to work together on interdisciplinary research.
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests focus on, but are not limited to computer vision, large language model, and machine learning. Feel free to contact me if you are interested in my research or would like to work together on interdisciplinary research.
 
 Research Interests
 ------
@@ -20,15 +20,15 @@ Research Interests
 
 Recent News
 ------
-- 2024.04: Invited to serve as a reviewer for *PR*!
-- 2024.02: One paper is accepted by **IEEE Transaction on Cybernetics 2024**!
-- 2023.10: One paper is accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2023**!
+- 2024.04: Invited to serve as a reviewer for *PR* !
+- 2024.02: One paper is accepted by **IEEE Transaction on Cybernetics 2024** !
+- 2023.10: One paper is accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2023** !
 - 2023.10: Invited to serve as a reviewer for *PRLETTERS*!
-- 2023.02: Accepted to pursue PhD at South China University of Technology!
+- 2023.02: Accepted to pursue PhD at South China University of Technology !
 - 2022.10: Received **the National Scholarship for postgraduate students** !
 - 2022.09: Invited to serve as a reviewer for *NN*!
-- 2022.08: One paper is accepted by **Remote Sensing 2022**!
-- 2022.08: Invited to serve as a reviewer for *IEEE JBHI*!
+- 2022.08: One paper is accepted by **Remote Sensing 2022** !
+- 2022.08: Invited to serve as a reviewer for *IEEE JBHI* !
 - 2022.06: One paper is accepted by **IEEE Transaction on Big Data 2022** !
 
 Publications
