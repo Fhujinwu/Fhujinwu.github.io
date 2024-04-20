@@ -9,14 +9,11 @@ redirect_from:
 ---
 About Me
 ------
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests focus on, but are not limited to computer vision, large language model, and machine learning. Feel free to contact me if you are interested in my research or would like to work together on interdisciplinary research.
-
-Research Interests
-------
-- Reinforcement Learning
-- Large Language Model
-- Image segmentation and its applications (e.g. remote sensing, medicine).
-- AI for Science.
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests are broadly in AI and mainly focus on:
+- **Reinforcement Learning.** 
+- **Large Language Model:** Tool learning, etc.
+- **Machine Learning:** few-shot learning, etc.
+- **Computer Vision:** Instance Segmentation, Medical Image Analysis, and Remote Sensing Image Analysis, etc.
 
 Recent News
 ------
