@@ -50,4 +50,4 @@ Professional Activities
 - Neural Networks (NN), Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
 - Pattern Recognition Letters (PRLETTERS), Reviewer.
-- IEEE student member, CCF student member.
+- IEEE student member, CCF student member, CSIG student member.
