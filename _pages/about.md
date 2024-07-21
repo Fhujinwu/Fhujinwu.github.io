@@ -17,6 +17,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 Recent News
 ------
+- 2024.07: One paper is accepted by **ACM Multimedia 2024** !
 - 2024.04: Invited to serve as a reviewer for *PR* !
 - 2024.02: One paper is accepted by **IEEE Transaction on Cybernetics 2024** !
 - 2023.10: One paper is accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2023** !
