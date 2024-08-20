@@ -43,6 +43,7 @@ Bo Liu<sup>+</sup>, **Jinwu Hu<sup>+</sup>**, Xiuli Bi*, WeiSheng Li, Xinbo Gao 
 
 Professional Activities
 ------
+- IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024， Program Committee(PC) member.
 - Pattern Recognition (PR), Reviewer.
 - Neural Networks (NN), Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
