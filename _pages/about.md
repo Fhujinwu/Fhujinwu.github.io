@@ -11,8 +11,8 @@ About Me
 ------
 I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests are broadly in AI and mainly focus on:
 - **Machine Learning:** few-shot learning, Transfer learning, etc.
-- **Reinforcement Learning:** Decision-making systems, Agents, etc.  
-- **Large Language Model:** Tool learning, LLM Agent, etc.
+- **Reinforcement Learning:** Applications of reinforcement learning to unmanned systems and to LLM, etc.  
+- **Large Language Model:** Efficient LLM, LLM Agent, etc.
 - **Computer Vision:** Instance Segmentation, Medical Image Analysis, Remote Sensing Image Analysis, etc.
 
 Recent News
