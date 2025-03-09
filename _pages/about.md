@@ -10,13 +10,14 @@ redirect_from:
 About Me
 ------
 I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests are broadly in AI and mainly focus on:
-- **Machine Learning:** few-shot learning, Transfer learning, etc.
-- **Reinforcement Learning:** Applications of reinforcement learning to unmanned systems and to LLM, etc.  
+- **Machine Learning:** few-shot learning, continual learning, etc.
+- **Reinforcement Learning:** Applications of reinforcement learning to unmanned systems and LLM, etc.  
 - **Large Language Model:** Efficient LLM, LLM Agent, etc.
 - **Computer Vision:** Instance Segmentation, Medical Image Analysis, Remote Sensing Image Analysis, etc.
 
 Recent News
 ------
+- 2025.02: One paper is accepted by **CVPR 2025**!
 - 2025.01: One paper is accepted by **NAACL 2025**!
 - 2024.09: One paper is accepted by **IEEE Transactions on Medical Imaging 2024**!
 - 2024.07: One paper is accepted by **ACM Multimedia 2024**!
@@ -30,6 +31,10 @@ Recent News
 Publications
 ------
 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
+- [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
+ Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan*<br>
+      NAACL, 2025.
+  <a href="https://arxiv.org/pdf/2412.13575">[paper]</a>  <a href="https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement">[code]</a>
 - [CTNet: Contrastive Transformer Network for Polyp Segmentation](https://ieeexplore.ieee.org/document/10471227)  <br>
  Bin Xiao, **Jinwu Hu**, WeiSheng Li, Chi-Man Pun, Xiuli Bi*<br>
       IEEE Transactions on Cybernetics, 2024.
@@ -39,13 +44,13 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, WeiSheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
 - [PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/14/17/4219)  <br>
-Bo Liu<sup>+</sup>, **Jinwu Hu<sup>+</sup>**, Xiuli Bi*, WeiSheng Li, Xinbo Gao <br>
+Bo Liu, **Jinwu Hu (co-first author)**, Xiuli Bi*, WeiSheng Li, Xinbo Gao <br>
      Remote Sensing, 2022.
 <a href="https://www.mdpi.com/2072-4292/14/17/4219">[paper]</a>  <a href="https://github.com/Fhujinwu/PGNet">[code]</a>
 
 Professional Activities
 ------
-- IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2024， Program Committee(PC) member.
+- IEEE BIBM, Program Committee(PC) member 2024, 2025.
 - Pattern Recognition (PR), Reviewer.
 - Neural Networks (NN), Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
