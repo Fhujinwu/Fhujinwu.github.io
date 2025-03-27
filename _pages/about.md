@@ -17,6 +17,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 Recent News
 ------
+- 2025.03: One paper is accepted by **Journal of software**!
 - 2025.02: One paper is accepted by **CVPR 2025**!
 - 2025.01: One paper is accepted by **NAACL 2025**!
 - 2024.09: One paper is accepted by **IEEE Transactions on Medical Imaging 2024**!
