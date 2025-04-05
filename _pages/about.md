@@ -51,6 +51,7 @@ Bo Liu, **Jinwu Hu (co-first author)**, Xiuli Bi*, WeiSheng Li, Xinbo Gao <br>
 
 Professional Activities
 ------
+- ACM MM, Reviewer 2025.
 - IEEE BIBM, Program Committee(PC) member 2024, 2025.
 - Pattern Recognition (PR), Reviewer.
 - Neural Networks (NN), Reviewer.
