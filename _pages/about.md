@@ -19,6 +19,7 @@ Recent News
 ------
 <div style="max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
   <ul style="list-style-type: none; padding: 0;">
+    <li>2025.04: Two paper are accepted by <strong>IJCAI 2025</strong>!</li>
     <li>2025.03: One paper is accepted by <strong>Journal of Software</strong>!</li>
     <li>2025.02: One paper is accepted by <strong>CVPR 2025</strong>!</li>
     <li>2025.01: One paper is accepted by <strong>NAACL 2025</strong>!</li>
