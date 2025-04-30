@@ -26,7 +26,7 @@ Recent News
     <li>2024.09: One paper is accepted by <strong>IEEE Transactions on Medical Imaging 2024</strong>!</li>
     <li>2024.07: One paper is accepted by <strong>ACM Multimedia 2024</strong>!</li>
     <li>2024.02: One paper is accepted by <strong>IEEE Transaction on Cybernetics 2024</strong>!</li>
-    <li>2023.10: One paper is accepted by <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2023</strong>!</li>
+    <li>2023.10: One paper is accepted by <strong>IEEE BIBM 2023</strong>!</li>
     <li>2023.02: Accepted to pursue PhD at South China University of Technology!</li>
     <li>2022.10: Received <strong>the National Scholarship for postgraduate students</strong>!</li>
     <li>2022.08: One paper is accepted by <strong>Remote Sensing 2022</strong>!</li>
