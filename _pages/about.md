@@ -17,17 +17,23 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 Recent News
 ------
-- 2025.03: One paper is accepted by **Journal of software**!
-- 2025.02: One paper is accepted by **CVPR 2025**!
-- 2025.01: One paper is accepted by **NAACL 2025**!
-- 2024.09: One paper is accepted by **IEEE Transactions on Medical Imaging 2024**!
-- 2024.07: One paper is accepted by **ACM Multimedia 2024**!
-- 2024.02: One paper is accepted by **IEEE Transaction on Cybernetics 2024**!
-- 2023.10: One paper is accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2023**!
-- 2023.02: Accepted to pursue PhD at South China University of Technology!
-- 2022.10: Received **the National Scholarship for postgraduate students**!
-- 2022.08: One paper is accepted by **Remote Sensing 2022**!
-- 2022.06: One paper is accepted by **IEEE Transaction on Big Data 2022**!
+<div style="max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+  <ul style="list-style-type: none; padding: 0;">
+    <li>2025.03: One paper is accepted by <strong>Journal of Software</strong>!</li>
+    <li>2025.02: One paper is accepted by <strong>CVPR 2025</strong>!</li>
+    <li>2025.01: One paper is accepted by <strong>NAACL 2025</strong>!</li>
+    <li>2024.09: One paper is accepted by <strong>IEEE Transactions on Medical Imaging 2024</strong>!</li>
+    <li>2024.07: One paper is accepted by <strong>ACM Multimedia 2024</strong>!</li>
+    <li>2024.02: One paper is accepted by <strong>IEEE Transaction on Cybernetics 2024</strong>!</li>
+    <li>2023.10: One paper is accepted by <strong>IEEE International Conference on Bioinformatics and Biomedicine (BIBM) 2023</strong>!</li>
+    <li>2023.02: Accepted to pursue PhD at South China University of Technology!</li>
+    <li>2022.10: Received <strong>the National Scholarship for postgraduate students</strong>!</li>
+    <li>2022.08: One paper is accepted by <strong>Remote Sensing 2022</strong>!</li>
+    <li>2022.06: One paper is accepted by <strong>IEEE Transaction on Big Data 2022</strong>!</li>
+  </ul>
+</div>
+
+
 
 Publications
 ------
