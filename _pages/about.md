@@ -17,7 +17,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 Recent News
 ------
-<div style="max-height: 300px; overflow-y: scroll; border: 1px solid #ccc; padding: 10px;">
+<div style="max-height: 300px; overflow-y: scroll; padding: 10px;">
   <ul style="list-style-type: none; padding: 0;">
     <li>2025.04: Two paper are accepted by <strong>IJCAI 2025</strong>!</li>
     <li>2025.03: One paper is accepted by <strong>Journal of Software</strong>!</li>
