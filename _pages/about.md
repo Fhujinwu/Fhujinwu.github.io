@@ -39,22 +39,26 @@ Recent News
 Publications
 ------
 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
+- [Efficient Dynamic Ensembling for Multiple LLM Experts](https://arxiv.org/pdf/2412.07448)  <br>
+ **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao, Mingkui Tan*<br>
+      IJCAI, 2025.
+  <a href="https://arxiv.org/pdf/2412.07448">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
+- [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/)  <br>
+ Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng, Xiaofen Xing, Mingkui Tan*<br>
+      IJCAI, 2025.
+  <a href="https://arxiv.org/">[paper]</a>  <a href="https://github.com">[code]</a>
 - [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
  Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan*<br>
       NAACL, 2025.
   <a href="https://arxiv.org/pdf/2412.13575">[paper]</a>  <a href="https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement">[code]</a>
 - [CTNet: Contrastive Transformer Network for Polyp Segmentation](https://ieeexplore.ieee.org/document/10471227)  <br>
- Bin Xiao, **Jinwu Hu**, WeiSheng Li, Chi-Man Pun, Xiuli Bi*<br>
+ Bin Xiao, **Jinwu Hu**, Weisheng Li, Chi-Man Pun, Xiuli Bi*<br>
       IEEE Transactions on Cybernetics, 2024.
 <a href="https://ieeexplore.ieee.org/document/10471227">[paper]</a>  <a href="https://github.com/Fhujinwu/CTNet">[code]</a>
 - [IEMask R-CNN: Information-enhanced Mask R-CNN](https://ieeexplore.ieee.org/abstract/document/9811396)  <br>
-Xiuli Bi, **Jinwu Hu**, Bin Xiao*, WeiSheng Li, Xinbo Gao <br>
+Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
-- [PGNet: Positioning Guidance Network for Semantic Segmentation of Very-High-Resolution Remote Sensing Images](https://www.mdpi.com/2072-4292/14/17/4219)  <br>
-Bo Liu, **Jinwu Hu (co-first author)**, Xiuli Bi*, WeiSheng Li, Xinbo Gao <br>
-     Remote Sensing, 2022.
-<a href="https://www.mdpi.com/2072-4292/14/17/4219">[paper]</a>  <a href="https://github.com/Fhujinwu/PGNet">[code]</a>
 
 Professional Activities
 ------
