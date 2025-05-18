@@ -9,11 +9,7 @@ redirect_from:
 ---
 About Me
 ------
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en). My research interests are broadly in AI and mainly focus on:
-- **Machine Learning:** few-shot learning, continual learning, etc.
-- **Reinforcement Learning:** Applications of reinforcement learning to unmanned systems and LLM, etc.  
-- **Large Language Model:** Efficient LLM, LLM Agent, etc.
-- **Computer Vision:** Instance Segmentation, Medical Image Analysis, Remote Sensing Image Analysis, etc.
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
 
 Recent News
 ------
@@ -64,7 +60,7 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
 Professional Activities
 ------
 - ACM MM, Reviewer 2025.
-- IEEE BIBM, Program Committee(PC) member 2024, 2025.
+- IEEE BIBM, Program Committee (PC) member 2024, 2025.
 - Pattern Recognition (PR), Reviewer.
 - Neural Networks (NN), Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
