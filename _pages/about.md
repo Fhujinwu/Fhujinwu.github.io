@@ -57,6 +57,11 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
 
+Research Experience
+------
+- Pazhou Lab (2024.02~present)
+- Huawei Technologies Co., Ltd (Project internships, 2022.10~2023.03)
+
 Professional Activities
 ------
 - ACM MM, Reviewer 2025.
