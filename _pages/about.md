@@ -40,10 +40,10 @@ Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAA
  **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao, Mingkui Tan*<br>
       IJCAI, 2025.
   <a href="https://arxiv.org/pdf/2412.07448">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
-- [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/)  <br>
+- [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/pdf/2505.12334)  <br>
  Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng, Xiaofen Xing, Mingkui Tan*<br>
       IJCAI, 2025.
-  <a href="https://arxiv.org/">[paper]</a>  <a href="https://github.com">[code]</a>
+  <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a>
 - [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
  Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan*<br>
       NAACL, 2025.
