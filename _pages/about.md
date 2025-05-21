@@ -76,6 +76,14 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
 - 2024.02~present, Pazhou Lab, **Research Intern**.
 - 2022.10~2023.03, Huawei Technologies Co., Ltd (Project Internships), **Research Intern**.
 
+
+## 🏆 Award
+
+-  National Scholarships, Ministry of Education, China, in 2022.
+-  Excellent Paper Award, Sichuan-Chongqing Science and Technology Academic Conference, in 2024.
+-  Excellent Master's Dissertation Award of Chongqing, in 2024
+
+
 ## 🎓 Professional Activities
 
 - ACM MM, Reviewer 2025.
