@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+## 🙋‍♂️About Me
 
 I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
 
@@ -34,10 +34,9 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 
 ## 📝 Publications
-
 👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
 - [Test-Time Learning for Large Language Models](https://arxiv.org)  <br>
- **Jinwu Hu**, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao*, Yuanqing Li* Mingkui Tan*<br>
+ **Jinwu Hu**, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao*, Yuanqing Li*, Mingkui Tan*<br>
       ICML, 2025.
   <a href="https://arxiv.org">[paper]</a>  <a href="https://github.com/Fhujinwu/TLM">[code]</a>
 - [Efficient Dynamic Ensembling for Multiple LLM Experts](https://arxiv.org/pdf/2412.07448)  <br>
@@ -45,7 +44,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
       IJCAI, 2025.
   <a href="https://arxiv.org/pdf/2412.07448">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
 - [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/pdf/2505.12334)  <br>
- Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng, Xiaofen Xing, Mingkui Tan*<br>
+ Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng*, Xiaofen Xing*, Mingkui Tan<br>
       IJCAI, 2025.
   <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a>
 - [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
@@ -61,12 +60,23 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
 
+## ✍️Pre-prints:
+👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
+- [Dynamic Compressing Prompts for Efficient Inference of Large Language Models](https://arxiv.org/pdf/2504.11004?)  <br>
+ **Jinwu Hu**, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, Mingkui Tan*, Qing Du*<br>
+      arxiv, 2025.
+  <a href="https://arxiv.org/pdf/2504.11004?">[paper]</a>  <a href="https://github.com/Fhujinwu/DCP">[code]</a>
+- [A Cross-Scene Benchmark for Open-World Drone Active Tracking](https://arxiv.org/pdf/2412.00744)  <br>
+ Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Zhuliang Yu*, Xiaohua Xie, Mingkui Tan*<br>
+      arxiv, 2024.
+  <a href="https://arxiv.org/pdf/2412.00744">[paper]</a>  <a href="https://dat-benchmark.framer.website/">[webpage]</a> <a href="https://github.com/SHWplus/DAT_Benchmark">[code]</a>
+
 ## 💻 Internships
 
 - 2024.02~present, Pazhou Lab, **Research Intern**.
 - 2022.10~2023.03, Huawei Technologies Co., Ltd (Project internships), **Research Intern**.
 
-## Professional Activities
+## 🎓Professional Activities
 
 - ACM MM, Reviewer 2025.
 - IEEE BIBM, Program Committee (PC) member 2024, 2025.
