@@ -79,9 +79,9 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
 
 ## 🏆 Award
 
--  National Scholarships, Ministry of Education, China, in 2022.
--  Excellent Paper Award, Sichuan-Chongqing Science and Technology Academic Conference, in 2024.
--  Excellent Master's Dissertation Award of Chongqing, in 2024
+-  National Scholarships, Ministry of Education, China, 2022.
+-  Excellent Paper Award, Sichuan-Chongqing Science and Technology Academic Conference, 2024.
+-  Excellent Master's Dissertation Award of Chongqing, 2024.
 
 
 ## 🎓 Professional Activities
