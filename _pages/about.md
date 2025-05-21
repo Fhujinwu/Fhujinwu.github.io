@@ -74,7 +74,7 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
 ## 💻 Internships
 
 - 2024.02~present, Pazhou Lab, **Research Intern**.
-- 2022.10~2023.03, Huawei Technologies Co., Ltd (Project internships), **Research Intern**.
+- 2022.10~2023.03, Huawei Technologies Co., Ltd (Project Internships), **Research Intern**.
 
 ## 🎓 Professional Activities
 
