@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## 🙋‍♂️About Me
+## 🙋‍♂️ About Me
 
 I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=en).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
 
@@ -76,7 +76,7 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
 - 2024.02~present, Pazhou Lab, **Research Intern**.
 - 2022.10~2023.03, Huawei Technologies Co., Ltd (Project internships), **Research Intern**.
 
-## 🎓Professional Activities
+## 🎓 Professional Activities
 
 - ACM MM, Reviewer 2025.
 - IEEE BIBM, Program Committee (PC) member 2024, 2025.
