@@ -46,7 +46,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 - [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/pdf/2505.12334)  <br>
  Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng*, Xiaofen Xing*, Mingkui Tan<br>
       IJCAI, 2025.
-  <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a>
+  <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a> <a href="https://www.xiaohongshu.com/explore/682df3500000000023013dca?xsec_token=ABqg1NiMNu6VR8w0d3XbMOqrRIhETN2BQ75rBOOtoOw1I=&xsec_source=pc_like">[rednote]</a> 
 - [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
  Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan*<br>
       NAACL, 2025.
