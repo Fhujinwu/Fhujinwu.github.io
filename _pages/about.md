@@ -35,10 +35,10 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 ## 📝 Publications
 👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
-- [Test-Time Learning for Large Language Models](https://arxiv.org)  <br>
+- [Test-Time Learning for Large Language Models](https://arxiv.org/pdf/2505.20633)  <br>
  **Jinwu Hu**, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao*, Yuanqing Li*, Mingkui Tan*<br>
       ICML, 2025.
-  <a href="https://arxiv.org">[paper]</a>  <a href="https://github.com/Fhujinwu/TLM">[code]</a>
+  <a href="https://arxiv.org/pdf/2505.20633">[paper]</a>  <a href="https://github.com/Fhujinwu/TLM">[code]</a>
 - [Efficient Dynamic Ensembling for Multiple LLM Experts](https://arxiv.org/pdf/2412.07448)  <br>
  **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao*, Mingkui Tan*<br>
       IJCAI, 2025.
