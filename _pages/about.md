@@ -90,6 +90,7 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
 - IEEE BIBM, Program Committee (PC) member 2024, 2025.
 - Pattern Recognition (PR), Reviewer.
 - Neural Networks (NN), Reviewer.
+- Neurocomputing, Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
 - Pattern Recognition Letters (PRLETTERS), Reviewer.
 - IEEE student member, CCF student member, CSIG student member.
