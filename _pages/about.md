@@ -36,38 +36,38 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 ## 📝 Publications
 👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
 - [Test-Time Learning for Large Language Models](https://arxiv.org/pdf/2505.20633)  <br>
- **Jinwu Hu**, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao*, Yuanqing Li*, Mingkui Tan*<br>
+ **Jinwu Hu**, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao *, Yuanqing Li *, Mingkui Tan *<br>
       ICML, 2025.
   <a href="https://arxiv.org/pdf/2505.20633">[paper]</a>  <a href="https://github.com/Fhujinwu/TLM">[code]</a>
 - [Efficient Dynamic Ensembling for Multiple LLM Experts](https://arxiv.org/pdf/2412.07448)  <br>
- **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao*, Mingkui Tan*<br>
+ **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao *, Mingkui Tan *<br>
       IJCAI, 2025.
   <a href="https://arxiv.org/pdf/2412.07448">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
 - [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/pdf/2505.12334)  <br>
- Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng*, Xiaofen Xing*, Mingkui Tan<br>
+ Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng *, Xiaofen Xing *, Mingkui Tan<br>
       IJCAI, 2025.
   <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a> <a href="https://www.xiaohongshu.com/explore/682df3500000000023013dca?xsec_token=ABqg1NiMNu6VR8w0d3XbMOqrRIhETN2BQ75rBOOtoOw1I=&xsec_source=pc_like">[rednote]</a> 
 - [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
- Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan*<br>
+ Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan *<br>
       NAACL, 2025.
   <a href="https://arxiv.org/pdf/2412.13575">[paper]</a>  <a href="https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement">[code]</a>
 - [CTNet: Contrastive Transformer Network for Polyp Segmentation](https://ieeexplore.ieee.org/document/10471227)  <br>
- Bin Xiao, **Jinwu Hu**, Weisheng Li, Chi-Man Pun, Xiuli Bi*<br>
+ Bin Xiao, **Jinwu Hu**, Weisheng Li, Chi-Man Pun, Xiuli Bi *<br>
       IEEE Transactions on Cybernetics, 2024.
 <a href="https://ieeexplore.ieee.org/document/10471227">[paper]</a>  <a href="https://github.com/Fhujinwu/CTNet">[code]</a>
 - [IEMask R-CNN: Information-enhanced Mask R-CNN](https://ieeexplore.ieee.org/abstract/document/9811396)  <br>
-Xiuli Bi, **Jinwu Hu**, Bin Xiao*, Weisheng Li, Xinbo Gao <br>
+Xiuli Bi, **Jinwu Hu**, Bin Xiao *, Weisheng Li, Xinbo Gao <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
 
 ## ✍️Pre-prints:
 👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
 - [Dynamic Compressing Prompts for Efficient Inference of Large Language Models](https://arxiv.org/pdf/2504.11004?)  <br>
- **Jinwu Hu**, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, Mingkui Tan*, Qing Du*<br>
+ **Jinwu Hu**, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, Mingkui Tan *, Qing Du *<br>
       arxiv, 2025.
   <a href="https://arxiv.org/pdf/2504.11004?">[paper]</a>  <a href="https://github.com/Fhujinwu/DCP">[code]</a>
 - [A Cross-Scene Benchmark for Open-World Drone Active Tracking](https://arxiv.org/pdf/2412.00744)  <br>
- Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Zhuliang Yu*, Xiaohua Xie, Mingkui Tan*<br>
+ Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Zhuliang Yu *, Xiaohua Xie, Mingkui Tan *<br>
       arxiv, 2024.
   <a href="https://arxiv.org/pdf/2412.00744">[paper]</a>  <a href="https://dat-benchmark.framer.website/">[webpage]</a> <a href="https://github.com/SHWplus/DAT_Benchmark">[code]</a>
 
