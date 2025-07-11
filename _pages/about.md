@@ -93,4 +93,5 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao *, Weisheng Li, Xinbo Gao <br>
 - Neurocomputing, Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
 - Pattern Recognition Letters (PRLETTERS), Reviewer.
+- Journal of Imaging Informatics in Medicine, Reviewer.
 - IEEE student member, CCF student member, CSIG student member.
