@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 🙋‍♂️ About Me
 
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao)](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TIP, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TIP, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
 
 ## 🔥 Recent News
 
