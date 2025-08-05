@@ -92,6 +92,7 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao *, Weisheng Li, Xinbo Gao <br>
 - Neural Networks (NN), Reviewer.
 - Neurocomputing, Reviewer.
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
+- Knowledge-Based Systems, Reviewer.
 - Pattern Recognition Letters (PRLETTERS), Reviewer.
 - Journal of Imaging Informatics in Medicine, Reviewer.
 - IEEE student member, CCF student member, CSIG student member.
