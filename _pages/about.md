@@ -9,12 +9,13 @@ redirect_from:
 ---
 ## 🙋‍♂️ About Me
 
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TIP, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published papers in top venues, including ICML, IJCAI, CVPR, ACM MM, IEEE TIP, IEEE TCYB, IEEE TMI, IEEE TIFS, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ACM MM, and IEEE BIBM. 
 
 ## 🔥 Recent News
 
 <div style="max-height: 300px; overflow-y: auto; padding: 0;">
   <ul style="list-style-type: none; margin: 0; padding: 0;">
+    <li>2025.09: One paper is accepted by <strong> IEEE Transactions on Information Forensics & Security</strong>!</li>
     <li>2025.06: One paper is accepted by <strong>IEEE Transactions on Image Processing</strong>!</li>
     <li>2025.05: One paper is accepted by <strong>ICML 2025</strong>!</li>
     <li>2025.04: Two paper are accepted by <strong>IJCAI 2025</strong>!</li>
