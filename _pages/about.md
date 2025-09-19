@@ -15,6 +15,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 <div style="max-height: 300px; overflow-y: auto; padding: 0;">
   <ul style="list-style-type: none; margin: 0; padding: 0;">
+    <li>2025.09: Two paper are accepted by <strong> NeurIPS 2025</strong>!</li>
     <li>2025.09: One paper is accepted by <strong> IEEE Transactions on Information Forensics & Security</strong>!</li>
     <li>2025.06: One paper is accepted by <strong>IEEE Transactions on Image Processing</strong>!</li>
     <li>2025.05: One paper is accepted by <strong>ICML 2025</strong>!</li>
