@@ -88,6 +88,7 @@ Xiuli Bi, **Jinwu Hu**, Bin Xiao *, Weisheng Li, Xinbo Gao <br>
 
 ## 🎓 Professional Activities
 
+- ICLR, Reviewer 2025.
 - ACM MM, Reviewer 2025.
 - IEEE BIBM, Program Committee (PC) member 2024, 2025.
 - Pattern Recognition (PR), Reviewer.
