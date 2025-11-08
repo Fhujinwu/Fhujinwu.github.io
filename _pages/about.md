@@ -84,7 +84,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 ## 🏆 Award
 
--  National Scholarships, Ministry of Education, China, 2022.
+-  National Scholarships, Ministry of Education, China, 2022, 2025.
 -  Excellent Paper Award, Sichuan-Chongqing Science and Technology Academic Conference, 2024.
 -  Excellent Master's Dissertation Award of Chongqing, 2024.
 
