@@ -15,7 +15,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 <span style="color:red;"><i>欢迎本科生联系科研合作！</i></span> -->
 ## 🤝 Collaboration
-My recent research interests include **test-time learning/adaptation for LLMs and VLN**, **continual learning for RL and LLMs**, and **multi-agent systems based on LLMs**. Feel free to contact me by email if you are interested in discussion or collaboration.
+My recent research interests include **test-time learning/adaptation for LLMs and VLN**, **continual learning for RL and LLMs**, and **multi-agent (LLMs) systems**. Feel free to contact me by email if you are interested in discussion or collaboration.
 
 <span style="color:red;"><i>欢迎本科生联系科研合作！</i></span>
 ## 🔥 Recent News
