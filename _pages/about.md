@@ -61,10 +61,7 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
  Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       NeurIPS 2025.
   <a href="https://arxiv.org/pdf/2412.00744">[paper]</a>  <a href="https://dat-benchmark.framer.website/">[webpage]</a> <a href="https://github.com/SHWplus/DAT_Benchmark">[code]</a>
-- [Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement](https://arxiv.org/pdf/2412.13575)  <br>
- Qianyue Wang, **Jinwu Hu (co-first author)**, Zhengping Li, Yufeng Wang, Daiyuan Li, Yu Hu, Mingkui Tan<sup>✉</sup><br>
-      NAACL, 2025.
-  <a href="https://arxiv.org/pdf/2412.13575">[paper]</a>  <a href="https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement">[code]</a>
+
 
 
 ## ✍️Pre-prints:
