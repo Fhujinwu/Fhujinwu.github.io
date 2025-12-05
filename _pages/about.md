@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 🙋‍♂️ About Me
 
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) (国家级青年人才). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) (长江) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm) (青长).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published **about 20 papers** in top venues, including ICML, NeurIPS, CVPR, IJCAI, ACM MM, IEEE TIP, IEEE TIFS, IEEE TCYB, IEEE TMI, and IEEE TBD. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ICLR, AAAI, ACM MM, and IEEE BIBM. 
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) (国家级青年人才). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) (长江) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm) (青长).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published **about 20 papers** in top venues, including NeurIPS, ICML, CVPR, IJCAI, ACM MM, IEEE TIP, IEEE TIFS, IEEE TCYB, and IEEE TMI. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ICLR, CVPR, AAAI, ACM MM, and IEEE BIBM. 
 
 
 ## 🤝 Collaboration
@@ -85,8 +85,9 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 
 
 ## 🎓 Professional Activities
-
+- CVPR, Reviewer 2025.
 - ICLR, Reviewer 2025.
+- AAAI, Reviewer 2025.
 - ACM MM, Reviewer 2025.
 - IEEE BIBM, Program Committee (PC) member 2024, 2025.
 - Pattern Recognition (PR), Reviewer.
@@ -95,5 +96,4 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 - IEEE Journal of Biomedical and Health Informatics (JBHI), Reviewer.
 - Knowledge-Based Systems, Reviewer.
 - Pattern Recognition Letters (PRLETTERS), Reviewer.
-- Journal of Imaging Informatics in Medicine, Reviewer.
 - IEEE student member, CCF student member, CSIG student member.
