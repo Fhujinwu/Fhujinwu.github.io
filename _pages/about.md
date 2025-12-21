@@ -71,6 +71,10 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
  **Jinwu Hu**, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, Mingkui Tan<sup>✉</sup>, Qing Du<sup>✉</sup><br>
       arxiv, 2025.
   <a href="https://arxiv.org/pdf/2504.11004?">[paper]</a>  <a href="https://github.com/Fhujinwu/DCP">[code]</a>
+- [Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models](https://arxiv.org/pdf/2512.15089)  <br>
+ **Jinwu Hu**, Dongjin Yang, Langyu Bian, Zhiquan Wen, Yufeng Wang, Yaofo Chen, Bin Xiao<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
+      arxiv, 2025.
+  <a href="https://arxiv.org/pdf/2512.15089">[paper]</a>
 
 ## 💻 Internships
 
