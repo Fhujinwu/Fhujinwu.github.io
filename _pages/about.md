@@ -76,11 +76,6 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
       arxiv, 2025.
   <a href="https://arxiv.org/pdf/2512.15089">[paper]</a>
 
-## 💻 Internships
-
-- 2024.02 ~ present, Pazhou Lab, **Research Intern**.
-- 2022.10 ~ 2023.03, Huawei Technologies Co., Ltd (Project Internships), **Research Intern**.
-
 
 ## 🏆 Award
 
@@ -88,6 +83,15 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 -  Excellent Paper Award, Sichuan-Chongqing Science and Technology Academic Conference, 2024.
 -  Excellent Master's Dissertation Award of Chongqing, 2024.
 
+## 📘 Grants
+
+- China Association for Science and Technology (CAST) Young Talent Support Program - Doctoral Student Special Initiative, Principle Investigator, 2026-2027.
+- Chongqing Postgraduate Research Innovation Project, Project Participant, 2023-2025.
+
+## 💻 Internships
+
+- 2024.02 ~ present, Pazhou Lab, **Research Intern**.
+- 2022.10 ~ 2023.03, Huawei Technologies Co., Ltd (Project Internships), **Research Intern**.
 
 ## 🎓 Professional Activities
 - CVPR, Reviewer 2025.
