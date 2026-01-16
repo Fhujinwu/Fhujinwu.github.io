@@ -14,7 +14,7 @@ I am a PhD student at the South China University of Technology (2023~) supervise
 
 ## 🧠 Research Interests
 My recent research interests include **test-time learning/adaptation for (M)LLMs and VLM**, **continual reinforcement learning**, and **multi-agent (LLMs) systems**. Feel free to contact me by email if you are interested in discussion or collaboration.
-<span style="color:red;"><i>欢迎本科生联系科研合作！</i></span>
+<span style="color:red;"><i>欢迎联系科研合作！</i></span>
 ## 🔥 Recent News
 
 <div style="max-height: 300px; overflow-y: auto; padding: 0;">
@@ -98,7 +98,7 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 - ICLR, Reviewer 2025.
 - AAAI, Reviewer 2025.
 - ACM MM, Reviewer 2025.
-- IEEE BIBM, Program Committee (PC) member 2024, 2025.
+- IEEE BIBM, Program Committee (PC) member 2024, 2025, 2026.
 - Pattern Recognition (PR), Reviewer.
 - Neural Networks (NN), Reviewer.
 - Neurocomputing, Reviewer.
