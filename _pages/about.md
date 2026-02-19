@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 🙋‍♂️ About Me
 
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) (国家级青年人才). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) (长江) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm) (青长).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published **about 20 papers** in top venues, including NeurIPS, ICML, CVPR, IJCAI, ACM MM, IEEE TIP, IEEE TIFS, IEEE TCYB, and IEEE TMI. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ICLR, CVPR, AAAI, ACM MM, and IEEE BIBM. 
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) (国家级青年人才). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) (长江) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm) (青长).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published **about 20 papers** in top venues, including NeurIPS, ICML, CVPR, IJCAI, ACM MM, IEEE TIP, IEEE TIFS, IEEE TCYB, and IEEE TMI. I served as the reviewer/ PC member for many journals/ conferences, including Pattern Recognition, Neural Networks, IEEE JBHI, ICML, ICLR, CVPR, AAAI, ACM MM, and IEEE BIBM. 
 
 
 ## 🧠 Research Interests
@@ -19,6 +19,7 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 
 <div style="max-height: 300px; overflow-y: auto; padding: 0;">
   <ul style="list-style-type: none; margin: 0; padding: 0;">
+    <li>2026.02: One paper is accepted by <strong> IEEE Transactions on Knowledge and Data Engineering</strong>!</li>
     <li>2025.10: Awarded <strong>the National Scholarship for Doctoral Students</strong>!</li>
     <li>2025.09: Two paper are accepted by <strong> NeurIPS 2025</strong>!</li>
     <li>2025.09: One paper is accepted by <strong> IEEE Transactions on Information Forensics & Security</strong>!</li>
