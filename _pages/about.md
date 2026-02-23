@@ -21,8 +21,7 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
   <ul style="list-style-type: none; margin: 0; padding: 0;">
     <li>2026.02: One paper is accepted by <strong> IEEE TKDE </strong> and one paper is accepted by <strong>CVPR 2026</strong>!</li>
     <li>2025.10: Awarded <strong>the National Scholarship for Doctoral Students</strong>!</li>
-    <li>2025.09: Two paper are accepted by <strong> NeurIPS 2025</strong>!</li>
-    <li>2025.09: One paper is accepted by <strong> IEEE TIFS</strong>!</li>
+    <li>2025.09: Two paper are accepted by <strong> NeurIPS 2025</strong> and one paper is accepted by <strong> IEEE TIFS</strong>!</li>
     <li>2025.06: One paper is accepted by <strong>IEEE TIP</strong>!</li>
     <li>2025.05: One paper is accepted by <strong>ICML 2025</strong>!</li>
     <li>2025.04: Two paper are accepted by <strong>IJCAI 2025</strong>!</li>
@@ -33,7 +32,6 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
     <li>2024.07: One paper is accepted by <strong>ACM Multimedia 2024</strong>!</li>
     <li>2024.02: One paper is accepted by <strong>IEEE Transaction on Cybernetics</strong>!</li>
     <li>2023.10: One paper is accepted by <strong>IEEE BIBM 2023</strong>!</li>
-    <li>2023.02: Accepted to pursue PhD at South China University of Technology!</li>
     <li>2022.10: Awarded <strong>the National Scholarship for postgraduate students</strong>!</li>
     <li>2022.06: One paper is accepted by <strong>IEEE TBD</strong>!</li>
   </ul>
