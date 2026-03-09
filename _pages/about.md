@@ -41,39 +41,31 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 
 ## 📝 Publications
 👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
-- [Test-Time Learning for Large Language Models](https://arxiv.org/pdf/2505.20633)  <br>
+- [Test-Time Learning for Large Language Models](https://openreview.net/pdf?id=iCYbIaGKSR)  <br>
  **Jinwu Hu**, Zhitian Zhang, Guohao Chen, Xutao Wen, Chao Shuai, Wei Luo, Bin Xiao<sup>✉</sup>, Yuanqing Li<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       ICML, 2025.
-  <a href="https://arxiv.org/pdf/2505.20633">[paper]</a>  <a href="https://github.com/Fhujinwu/TLM">[code]</a>
-- [Efficient Dynamic Ensembling for Multiple LLM Experts](https://arxiv.org/pdf/2412.07448)  <br>
- **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
-      IJCAI, 2025.
-  <a href="https://arxiv.org/pdf/2412.07448">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
-- [Continual Knowledge Adaptation for Reinforcement Learning](https://arxiv.org/pdf/2510.19314)  <br>
+  <a href="https://openreview.net/pdf?id=iCYbIaGKSR">[paper]</a>  <a href="https://github.com/Fhujinwu/TLM">[code]</a>
+- [Continual Knowledge Adaptation for Reinforcement Learning](https://openreview.net/pdf?id=QRlVickNdN)  <br>
  **Jinwu Hu**, Zihao Lian, Zhiquan Wen, Chenghao Li, Guohao Chen, Xutao Wen, Bin Xiao<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       NeurIPS 2025.
-  <a href="https://arxiv.org/pdf/2510.19314">[paper]</a>  <a href="https://github.com/Fhujinwu/CKA-RL">[code]</a>
-- [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/pdf/2505.12334)  <br>
- Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng<sup>✉</sup>, Xiaofen Xing<sup>✉</sup>, Mingkui Tan<br>
+  <a href="https://openreview.net/pdf?id=QRlVickNdN">[paper]</a>  <a href="https://github.com/Fhujinwu/CKA-RL">[code]</a>
+- [Dynamic Compressing Prompts for Efficient Inference of Large Language Models](https://arxiv.org/pdf/2504.11004?)  <br>
+ **Jinwu Hu**, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, Mingkui Tan<sup>✉</sup>, Qing Du<sup>✉</sup><br>
+      IEEE TKDE, 2026.
+  <a href="https://arxiv.org/pdf/2504.11004?">[paper]</a>
+- [Efficient Dynamic Ensembling for Multiple LLM Experts](https://www.ijcai.org/proceedings/2025/0900.pdf)  <br>
+ **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       IJCAI, 2025.
-  <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a> <a href="https://www.xiaohongshu.com/explore/682df3500000000023013dca?xsec_token=ABqg1NiMNu6VR8w0d3XbMOqrRIhETN2BQ75rBOOtoOw1I=&xsec_source=pc_like">[rednote]</a>
+  <a href="https://www.ijcai.org/proceedings/2025/0900.pdf">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
 - [Open-World Drone Active Tracking with Goal-Centered Rewards](https://arxiv.org/pdf/2412.00744)  <br>
  Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       NeurIPS 2025.
   <a href="https://arxiv.org/pdf/2412.00744">[paper]</a>  <a href="https://dat-benchmark.framer.website/">[webpage]</a> <a href="https://github.com/SHWplus/DAT_Benchmark">[code]</a>
+- [Enhancing User-Oriented Proactivity in Open-Domain Dialogues with Critic Guidance](https://arxiv.org/pdf/2505.12334)  <br>
+ Yufeng Wang, **Jinwu Hu (co-first author)**, Ziteng Huang, Kunyang Lin, Zitian Zhang, Peihao Chen, Yu Hu, Qianyue Wang, Zhuliang Yu, Bin Sun, Qingfang Zheng<sup>✉</sup>, Xiaofen Xing<sup>✉</sup>, Mingkui Tan<br>
+      IJCAI, 2025.
+  <a href="https://arxiv.org/pdf/2505.12334">[paper]</a>  <a href="https://github.com/wang678/LLM-UPC">[code]</a> <a href="https://www.xiaohongshu.com/explore/682df3500000000023013dca?xsec_token=ABqg1NiMNu6VR8w0d3XbMOqrRIhETN2BQ75rBOOtoOw1I=&xsec_source=pc_like">[rednote]</a>
 
-
-
-## ✍️Pre-prints:
-👉 Check the full list [here](https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en).
-- [Dynamic Compressing Prompts for Efficient Inference of Large Language Models](https://arxiv.org/pdf/2504.11004?)  <br>
- **Jinwu Hu**, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, Mingkui Tan<sup>✉</sup>, Qing Du<sup>✉</sup><br>
-      arxiv, 2025.
-  <a href="https://arxiv.org/pdf/2504.11004?">[paper]</a>  <a href="https://github.com/Fhujinwu/DCP">[code]</a>
-- [Beyond Fast and Slow: Cognitive-Inspired Elastic Reasoning for Large Language Models](https://arxiv.org/pdf/2512.15089)  <br>
- **Jinwu Hu**, Dongjin Yang, Langyu Bian, Zhiquan Wen, Yufeng Wang, Yaofo Chen, Bin Xiao<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
-      arxiv, 2025.
-  <a href="https://arxiv.org/pdf/2512.15089">[paper]</a>
 
 
 ## 🏆 Award
