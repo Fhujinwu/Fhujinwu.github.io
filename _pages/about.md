@@ -19,7 +19,7 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 
 <div style="max-height: 300px; overflow-y: auto; padding: 0;">
   <ul style="list-style-type: none; margin: 0; padding: 0;">
-    <li>2026.04: One paper is accepted by <strong>IEEE TIP</strong> and one paper is accepted by <strong>ACL2026 Findings</strong>! </li>
+    <li>2026.04: One paper is accepted by <strong>IEEE TIP</strong> and one paper is accepted by <strong>ACL 2026 Findings</strong>! </li>
     <li>2026.03: One paper is accepted by <strong> ICME 2026</strong>!</li>
     <li>2026.02: One paper is accepted by <strong> IEEE TKDE </strong> and one paper is accepted by <strong>CVPR 2026</strong>!</li>
     <li>2025.10: Awarded <strong>the National Scholarship for Doctoral Students</strong>!</li>
