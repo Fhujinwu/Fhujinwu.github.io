@@ -60,6 +60,14 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
  **Jinwu Hu**, Yufeng Wang, Shuhai Zhang, Kai Zhou, Guohao Chen, Yu Hu, Bin Xiao<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       IJCAI, 2025.
   <a href="https://www.ijcai.org/proceedings/2025/0900.pdf">[paper]</a>  <a href="https://github.com/Fhujinwu/DER">[code]</a>
+- [Future-Gain Guided Test-Time Learning for Large Language Models](https://fhujinwu.github.io/)  <br>
+ LangYu Bian, **Jinwu Hu (co-first author)**, Zitian Zhang, Dongjin Yang, Yufeng Wang, Qing Du<sup>✉</sup>, Qi Chen<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
+      ICML, 2026.
+  <a href="https://fhujinwu.github.io/">[paper]</a>
+- [Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](https://arxiv.org/pdf/2601.11252)  <br>
+ Qianyue Wang, **Jinwu Hu (co-first author)**, Yaofo Chen, Yufeng Wang, Bailin Chen, Huanxiang Lin, Yu Rong, Yuanqing Li, Zhiquan Wen<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
+      ICML, 2026.
+  <a href="https://arxiv.org/pdf/2601.11252">[paper]</a>
 - [Open-World Drone Active Tracking with Goal-Centered Rewards](https://arxiv.org/pdf/2412.00744)  <br>
  Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       NeurIPS 2025.
