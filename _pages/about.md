@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## 🙋‍♂️ About Me
 
-I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) (国家级青年人才). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) (长江) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm) (青长).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published about 20 papers in top venues, including NeurIPS, ICML, CVPR, IJCAI, ACM MM, IEEE TKDE, IEEE TIP, IEEE TIFS, IEEE TCYB, and IEEE TMI, **with 2 ESI Highly Cited Papers**. I served as the reviewer/ PC member for many journals/ conferences, including IEEE TPAMI, IEEE TMI, ICML, ICLR, CVPR, ECCV, AAAI, ACM MM, and IEEE BIBM. 
+I am a PhD student at the South China University of Technology (2023~) supervised by Prof. [Mingkui Tan](https://tanmingkui.github.io/) (国家级青年人才). I received my MSc from Chongqing University of Posts and Telecommunications in 2023, co-supervised by Prof. [Bin Xiao](https://faculty.cqupt.edu.cn/xiaobin/zh_CN/index.htm) (长江) and Prof. [Xiuli Bi](https://faculty.cqupt.edu.cn/bixiuli/zh_CN/index.htm) (青长).  My research interests include Large Language Models, Computer Vision, and Reinforcement Learning. I published about 20 papers in top venues, including NeurIPS, ICML, CVPR, IJCAI, ACM MM, ECCV, IEEE TKDE, IEEE TIP, IEEE TMM, IEEE TIFS, IEEE TCYB, and IEEE TMI, **with 2 ESI Highly Cited Papers**. I served as the reviewer/ PC member for many journals/ conferences, including IEEE TPAMI, IEEE TMI, ICML, ICLR, CVPR, ECCV, AAAI, ACM MM, and IEEE BIBM. 
 
 
 ## 🧠 Research Interests
@@ -19,24 +19,25 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 
 <div style="max-height: 300px; overflow-y: auto; padding: 0;">
   <ul style="list-style-type: none; margin: 0; padding: 0;">
-    <li>2026.05: Two paper is accepted by <strong>ICML 2026</strong>!</li>
-    <li>2026.04: One paper is accepted by <strong>IEEE TIP</strong> and one paper is accepted by <strong>ACL 2026 Findings</strong>! </li>
-    <li>2026.03: One paper is accepted by <strong> ICME 2026</strong>!</li>
-    <li>2026.02: One paper is accepted by <strong> IEEE TKDE </strong> and one paper is accepted by <strong>CVPR 2026</strong>!</li>
+    <li>2026.06: One paper (co-first author) is accepted by <strong>ECCV 2026</strong>!</li>
+    <li>2026.05: Two papers (co-first author) are accepted by <strong>ICML 2026</strong>!</li>
+    <li>2026.04: One paper (co-first author) is accepted by <strong>ACL 2026 Findings</strong>! </li>
+    <!-- <li>2026.03: One paper is accepted by <strong> ICME 2026</strong>!</li> -->
+    <li>2026.02: One paper is accepted by <strong> IEEE TKDE </strong>!</li>
     <li>2025.10: Awarded <strong>the National Scholarship for Doctoral Students</strong>!</li>
-    <li>2025.09: Two paper are accepted by <strong> NeurIPS 2025</strong> and one paper is accepted by <strong> IEEE TIFS</strong>!</li>
-    <li>2025.06: One paper is accepted by <strong>IEEE TIP</strong>!</li>
+    <li>2025.09: Two papers (first / co-first author) are accepted by <strong> NeurIPS 2025</strong></li>
+    <!-- <li>2025.06: One paper is accepted by <strong>IEEE TIP</strong>!</li> -->
     <li>2025.05: One paper is accepted by <strong>ICML 2025</strong>!</li>
-    <li>2025.04: Two paper are accepted by <strong>IJCAI 2025</strong>!</li>
-    <li>2025.03: One paper is accepted by <strong>Journal of Software</strong>!</li>
-    <li>2025.02: One paper is accepted by <strong>CVPR 2025</strong>!</li>
-    <li>2025.01: One paper is accepted by <strong>NAACL 2025</strong>!</li>
-    <li>2024.09: One paper is accepted by <strong>IEEE TMI</strong>!</li>
-    <li>2024.07: One paper is accepted by <strong>ACM Multimedia 2024</strong>!</li>
+    <li>2025.04: Two papers (first / co-first author) are accepted by <strong>IJCAI 2025</strong>!</li>
+    <li>2025.03: One paper (co-first author) is accepted by <strong>Journal of Software</strong>!</li>
+    <!-- <li>2025.02: One paper is accepted by <strong>CVPR 2025</strong>!</li> -->
+    <li>2025.01: One paper (co-first author) is accepted by <strong>NAACL 2025</strong>!</li>
+    <!-- <li>2024.09: One paper is accepted by <strong>IEEE TMI</strong>!</li> -->
+    <!-- <li>2024.07: One paper is accepted by <strong>ACM Multimedia 2024</strong>!</li> -->
     <li>2024.02: One paper is accepted by <strong>IEEE Transaction on Cybernetics</strong>!</li>
-    <li>2023.10: One paper is accepted by <strong>IEEE BIBM 2023</strong>!</li>
+    <!-- <li>2023.10: One paper is accepted by <strong>IEEE BIBM 2023</strong>!</li> -->
     <li>2022.10: Awarded <strong>the National Scholarship for postgraduate students</strong>!</li>
-    <li>2022.06: One paper is accepted by <strong>IEEE TBD</strong>!</li>
+    <!-- <li>2022.06: One paper is accepted by <strong>IEEE TBD</strong>!</li> -->
   </ul>
 </div>
 
@@ -63,11 +64,11 @@ My recent research interests include **test-time learning/adaptation for (M)LLMs
 - [Future-Gain Guided Test-Time Learning for Large Language Models](https://fhujinwu.github.io/)  <br>
  LangYu Bian, **Jinwu Hu (co-first author)**, Zitian Zhang, Dongjin Yang, Yufeng Wang, Qing Du<sup>✉</sup>, Qi Chen<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       ICML, 2026.
-  <a href="https://fhujinwu.github.io/">[paper]</a>
+  <a href="https://openreview.net/pdf?id=CEnPJAQTUu">[paper]</a> <a href="https://github.com/BianLangyu/FG-TTL">[code]</a>
 - [Intervene When It Doubts: Conjunction-Guided Interactive Reasoning](https://arxiv.org/pdf/2601.11252)  <br>
  Qianyue Wang, **Jinwu Hu (co-first author)**, Yaofo Chen, Yufeng Wang, Bailin Chen, Huanxiang Lin, Yu Rong, Yuanqing Li, Zhiquan Wen<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       ICML, 2026.
-  <a href="https://arxiv.org/pdf/2601.11252">[paper]</a>
+  <a href="https://openreview.net/pdf?id=zVjLO7jg9T">[paper]</a>
 - [Open-World Drone Active Tracking with Goal-Centered Rewards](https://arxiv.org/pdf/2412.00744)  <br>
  Haowei Sun, **Jinwu Hu (co-first author)**, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu<sup>✉</sup>, Mingkui Tan<sup>✉</sup><br>
       NeurIPS 2025.
